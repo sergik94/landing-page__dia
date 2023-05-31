@@ -1,4 +1,14 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Dia landing page
+It is single-page website which is implemented according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
+
+[DEMO LINK](https://sergik94.github.io/landing-page__dia/)
+
+Page is adapted to the following screens:
+- Large screens 2560px
+- The design 1600px
+- Desktop 1280px
+- Small desktop 1024px
+- Tablet 640px
+- Mobile (> 320px)
+
+HTML / SASS (with BEM), JavaScript are used in this project. Slider and all links are active.
